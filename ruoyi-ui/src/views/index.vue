@@ -110,9 +110,9 @@
               alt="donate"
               width="100%"
             />
-            <span style="display: inline-block; height: 30px; line-height: 30px"
-              >你可以请作者喝杯咖啡表示鼓励</span
-            >
+<!--            <span style="display: inline-block; height: 30px; line-height: 30px"-->
+<!--              >你可以请作者喝杯咖啡表示鼓励</span-->
+<!--            >-->
           </div>
         </el-card>
       </el-col>
@@ -126,7 +126,7 @@ export default {
   data() {
     return {
       // 版本号
-      version: "0.1.2"
+      version: "0.2.0"
     }
   },
   methods: {
