@@ -6,9 +6,9 @@ spring:
         druid:
             # 主库数据源
             master:
-                url: 你的mysql地址
-                username: 你的mysql账号
-                password: 你的mysql密码
+                url: jdbc:mysql://121.40.23.25:3306/ruoyi?useUnicode=true&characterEncoding=utf8
+                username: ruoyi
+                password: Thisispassword123
             # 从库数据源
             slave:
                 # 从数据源开关/默认关闭
