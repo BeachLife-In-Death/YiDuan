@@ -115,7 +115,7 @@
             <img
               src="@/assets/images/pay.png"
               alt="donate"
-              width="100%"
+              width="25%"
             />
 <!--            <span style="display: inline-block; height: 30px; line-height: 30px"-->
 <!--              >你可以请作者喝杯咖啡表示鼓励</span-->
@@ -133,7 +133,7 @@ export default {
   data() {
     return {
       // 版本号
-      version: "0.2.0"
+      version: "0.2.1"
     }
   },
   methods: {

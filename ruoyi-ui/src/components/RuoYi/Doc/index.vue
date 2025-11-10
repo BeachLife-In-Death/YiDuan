@@ -9,7 +9,7 @@ export default {
   name: 'RuoYiDoc',
   data() {
     return {
-      url: 'http://doc.ruoyi.vip/ruoyi-vue'
+      url: 'https://vcnfzvrvujwh.feishu.cn/wiki/Hj36wCdGJiB2i2kUIBwcZsbJnmh'
     }
   },
   methods: {
